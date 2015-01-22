@@ -1,3 +1,3 @@
 ## README
 
-Welcome to Amy's playground.
+Welcome to Amy's playground!
