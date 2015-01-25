@@ -12,7 +12,9 @@
 				toy.play = function(){
 					this.status = "playing";
 				}
-				document.getElementById("Display Toy").innerHTML = JSON.stringify(toy);
+				document.getElementById("Display Toy").innerHTML = "1. Toy color is " + toy.color + "<br>" + "2. You created a " +
+toy.size + " sized toy" + "<br>" +
+"3. Is your toy soft? " + toy.isSoft;
 			}
 			
 			function createPerson(){
